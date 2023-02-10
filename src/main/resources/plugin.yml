@@ -1,0 +1,11 @@
+name: ChatCommunications
+version: '${project.version}'
+main: ru.brenlike.chatco.ChatCo
+api-version: 1.19
+depend: [ PlaceholderAPI ]
+authors: [ 25BrenLike ]
+website: https://t.me/brenlike
+
+commands:
+  chatco:
+    description: "Special command for reloading ChatCommunications"
